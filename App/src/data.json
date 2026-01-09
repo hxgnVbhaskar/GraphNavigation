@@ -1,0 +1,484 @@
+{
+    "nodes": [
+        {
+            "id": "1",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "sourcePosition": "right",
+            "targetPosition": "left",
+            "data": {
+                "label": "HxGN SDx2"
+            }
+        },
+        {
+            "id": "2",
+            "position": {
+                "x": 200,
+                "y": -200
+            },
+            "sourcePosition": "right",
+            "targetPosition": "left",
+            "data": {
+                "label": "Global Demo Center",
+                "detailsFile": "globaldemocenter.json"
+            }
+        },
+        {
+            "id": "3",
+            "position": {
+                "x": 200,
+                "y": -100
+            },
+            "sourcePosition": "right",
+            "targetPosition": "left",
+            "data": {
+                "label": "Prescriptive Solutions"
+            }
+        },
+        {
+            "id": "4",
+            "position": {
+                "x": 200,
+                "y": 0
+            },
+            "sourcePosition": "right",
+            "targetPosition": "left",
+            "data": {
+                "label": "Solution Delivery",
+                "detailsFile": "solutiondelivery.json"
+            }
+        },
+        {
+            "id": "5",
+            "position": {
+                "x": 200,
+                "y": 100
+            },
+            "sourcePosition": "right",
+            "targetPosition": "left",
+            "data": {
+                "label": "Technical Training"
+            }
+        },
+        {
+            "id": "6",
+            "position": {
+                "x": 200,
+                "y": 200
+            },
+            "sourcePosition": "right",
+            "targetPosition": "left",
+            "data": {
+                "label": "Related Products"
+            }
+        },
+        {
+            "id": "7",
+            "position": {
+                "x": 450,
+                "y": -260
+            },
+            "sourcePosition": "right",
+            "targetPosition": "left",
+            "data": {
+                "label": "Core Use Cases"
+            }
+        },
+        {
+            "id": "8",
+            "position": {
+                "x": 450,
+                "y": -160
+            },
+            "sourcePosition": "right",
+            "targetPosition": "left",
+            "data": {
+                "label": "Integration Use Cases"
+            }
+        },
+        {
+            "id": "9",
+            "position": {
+                "x": 750,
+                "y": -360
+            },
+            "data": {
+                "label": "Document Management"
+            }
+        },
+        {
+            "id": "10",
+            "position": {
+                "x": 750,
+                "y": -300
+            },
+            "data": {
+                "label": "Operational Twin"
+            }
+        },
+        {
+            "id": "11",
+            "position": {
+                "x": 750,
+                "y": -240
+            },
+            "data": {
+                "label": "DTO / Data Smartification"
+            }
+        },
+        {
+            "id": "12",
+            "position": {
+                "x": 750,
+                "y": -180
+            },
+            "data": {
+                "label": "Share and Compare from Design Tools"
+            }
+        },
+        {
+            "id": "13",
+            "position": {
+                "x": 750,
+                "y": -120
+            },
+            "data": {
+                "label": "Design Review and Issue Management"
+            }
+        },
+        {
+            "id": "14",
+            "position": {
+                "x": 750,
+                "y": -60
+            },
+            "data": {
+                "label": "Project Data Handover"
+            }
+        },
+        {
+            "id": "15",
+            "position": {
+                "x": 750,
+                "y": -200
+            },
+            "sourcePosition": "right",
+            "targetPosition": "left",
+            "data": {
+                "label": "Microsoft SharePoint Integration"
+            }
+        },
+        {
+            "id": "16",
+            "position": {
+                "x": 750,
+                "y": -140
+            },
+            "sourcePosition": "right",
+            "targetPosition": "left",
+            "data": {
+                "label": "HxGN SDx2 - SMAT Integration"
+            }
+        },
+        {
+            "id": "17",
+            "position": {
+                "x": 750,
+                "y": -80
+            },
+            "sourcePosition": "right",
+            "targetPosition": "left",
+            "data": {
+                "label": "HxGN SDx2 - EAM Connector"
+            }
+        },
+        {
+            "id": "18",
+            "position": {
+                "x": 750,
+                "y": -20
+            },
+            "sourcePosition": "right",
+            "targetPosition": "left",
+            "data": {
+                "label": "HxGN SDx2 - Intergraph Smart Completions"
+            }
+        },
+        {
+            "id": "19",
+            "position": {
+                "x": 750,
+                "y": 40
+            },
+            "sourcePosition": "right",
+            "targetPosition": "left",
+            "data": {
+                "label": "HxGN SDx2 - SMAT Integrated VDR Management"
+            }
+        },
+        {
+            "id": "20",
+            "position": {
+                "x": 750,
+                "y": -200
+            },
+            "sourcePosition": "right",
+            "targetPosition": "left",
+            "data": {
+                "label": "Microsoft SharePoint Integration"
+            }
+        },
+        {
+            "id": "21",
+            "position": {
+                "x": 750,
+                "y": -140
+            },
+            "sourcePosition": "right",
+            "targetPosition": "left",
+            "data": {
+                "label": "HxGN SDx2 - SMAT Integration"
+            }
+        },
+        {
+            "id": "22",
+            "position": {
+                "x": 750,
+                "y": -80
+            },
+            "sourcePosition": "right",
+            "targetPosition": "left",
+            "data": {
+                "label": "HxGN SDx2 - EAM Connector"
+            }
+        },
+        {
+            "id": "23",
+            "position": {
+                "x": 750,
+                "y": -20
+            },
+            "sourcePosition": "right",
+            "targetPosition": "left",
+            "data": {
+                "label": "HxGN SDx2 - Intergraph Smart Completions"
+            }
+        },
+        {
+            "id": "24",
+            "position": {
+                "x": 750,
+                "y": 40
+            },
+            "sourcePosition": "right",
+            "targetPosition": "left",
+            "data": {
+                "label": "HxGN SDx2 - SMAT Integrated VDR Management"
+            }
+        },
+        {
+            "id": "25",
+            "position": {
+                "x": 450,
+                "y": 0
+            },
+            "sourcePosition": "right",
+            "targetPosition": "left",
+            "data": {
+                "label": "SDx2 Migration Methodology"
+            }
+        },
+        {
+            "id": "26",
+            "position": {
+                "x": 1450,
+                "y": 0
+            },
+            "sourcePosition": "right",
+            "targetPosition": "left",
+            "data": {
+                "label": "Proof Of Value"
+            }
+        },
+        {
+            "id": "27",
+            "position": {
+                "x": 450,
+                "y": -260
+            },
+            "sourcePosition": "right",
+            "targetPosition": "left",
+            "data": {
+                "label": "Use Cases"
+            }
+        },
+        {
+            "id": "28",
+            "position": {
+                "x": 450,
+                "y": 80
+            },
+            "sourcePosition": "right",
+            "targetPosition": "left",
+            "data": {
+                "label": "Technical Webinars"
+            }
+        },
+        {
+            "id": "29",
+            "position": {
+                "x": 450,
+                "y": 140
+            },
+            "sourcePosition": "right",
+            "targetPosition": "left",
+            "data": {
+                "label": "In-Person Training"
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e1-2",
+            "source": "1",
+            "target": "2"
+        },
+        {
+            "id": "e1-3",
+            "source": "1",
+            "target": "3"
+        },
+        {
+            "id": "e1-4",
+            "source": "1",
+            "target": "4"
+        },
+        {
+            "id": "e1-5",
+            "source": "1",
+            "target": "5"
+        },
+        {
+            "id": "e1-6",
+            "source": "1",
+            "target": "6"
+        },
+        {
+            "id": "e2-7",
+            "source": "2",
+            "target": "7"
+        },
+        {
+            "id": "e2-8",
+            "source": "2",
+            "target": "8"
+        },
+        {
+            "id": "e7-9",
+            "source": "7",
+            "target": "9"
+        },
+        {
+            "id": "e7-10",
+            "source": "7",
+            "target": "10"
+        },
+        {
+            "id": "e7-11",
+            "source": "7",
+            "target": "11"
+        },
+        {
+            "id": "e7-12",
+            "source": "7",
+            "target": "12"
+        },
+        {
+            "id": "e7-13",
+            "source": "7",
+            "target": "13"
+        },
+        {
+            "id": "e7-14",
+            "source": "7",
+            "target": "14"
+        },
+        {
+            "id": "e8-15",
+            "source": "8",
+            "target": "15"
+        },
+        {
+            "id": "e8-16",
+            "source": "8",
+            "target": "16"
+        },
+        {
+            "id": "e8-17",
+            "source": "8",
+            "target": "17"
+        },
+        {
+            "id": "e8-18",
+            "source": "8",
+            "target": "18"
+        },
+        {
+            "id": "e8-19",
+            "source": "8",
+            "target": "19"
+        },
+        {
+            "id": "e3-27",
+            "source": "3",
+            "target": "27"
+        },
+        {
+            "id": "e3-20",
+            "source": "27",
+            "target": "20"
+        },
+        {
+            "id": "e3-21",
+            "source": "27",
+            "target": "21"
+        },
+        {
+            "id": "e3-22",
+            "source": "27",
+            "target": "22"
+        },
+        {
+            "id": "e3-23",
+            "source": "27",
+            "target": "23"
+        },
+        {
+            "id": "e27-24",
+            "source": "27",
+            "target": "24"
+        },
+        {
+            "id": "e4-25",
+            "source": "4",
+            "target": "25"
+        },
+        {
+            "id": "e4-26",
+            "source": "4",
+            "target": "26"
+        },
+        {
+            "id": "e5-28",
+            "source": "5",
+            "target": "28"
+        },
+        {
+            "id": "e5-29",
+            "source": "5",
+            "target": "29"
+        }
+    ]
+}

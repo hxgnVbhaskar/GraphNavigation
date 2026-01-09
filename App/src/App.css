@@ -1,0 +1,24 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+/* Ensure full height for layout */
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  overflow: hidden;
+  /* Prevent body scroll, let containers handle it */
+}
+
+/* Override default root padding/centering from Vite template if needed */
+#root {
+  max-width: none;
+  text-align: left;
+}

@@ -1,0 +1,34 @@
+{
+    "title": "Global Demo Center",
+    "description": "A comprehensive showcase of our solutions, enabling customers to experience the full capabilities of HxGN SDx2 in real-world scenarios.",
+    "type": "Demo Environment",
+    "status": "Active",
+    "owner": "Sales Engineering Team",
+    "lastUpdated": "2026-01-08",
+    "keyFeatures": [
+        "Interactive use case demonstrations",
+        "Customizable demo environments",
+        "Integration showcase",
+        "Best practices library"
+    ],
+    "resources": [
+        {
+            "name": "Demo Request Form",
+            "url": "#"
+        },
+        {
+            "name": "Available Use Cases",
+            "url": "#"
+        },
+        {
+            "name": "Scheduling Guide",
+            "url": "#"
+        }
+    ],
+    "contacts": [
+        {
+            "role": "Demo Coordinator",
+            "email": "demo@hexagon.com"
+        }
+    ]
+}

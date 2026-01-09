@@ -1,0 +1,77 @@
+/* TitleHeader.css */
+.title-header-panel {
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+    padding: 0.8rem 1.5rem;
+    background: rgba(30, 30, 30, 0.75);
+    /* Dark semi-transparent background */
+    backdrop-filter: blur(12px);
+    /* Modern glassmorphism blur */
+    -webkit-backdrop-filter: blur(12px);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 12px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+    color: #e0e0e0;
+    font-family: 'Inter', sans-serif;
+    pointer-events: auto;
+    /* Ensure clickable */
+    margin: 20px;
+}
+
+.header-logo-container {
+    display: flex;
+    align-items: center;
+}
+
+.header-logo {
+    height: 32px;
+    width: auto;
+    color: #00e676;
+    /* Accent color for logo */
+}
+
+.header-title h1 {
+    font-size: 1.25rem;
+    font-weight: 600;
+    margin: 0;
+    letter-spacing: 0.5px;
+    color: #ffffff;
+}
+
+.header-nav {
+    display: flex;
+    gap: 0.8rem;
+    margin-left: auto;
+    /* Push nav to the right if needed, though centered layout usually keeps them close */
+    padding-left: 1.5rem;
+    border-left: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.nav-button {
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    padding: 8px;
+    border-radius: 8px;
+    transition: background 0.2s ease, transform 0.1s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #a0a0a0;
+}
+
+.nav-button:hover {
+    background: rgba(255, 255, 255, 0.1);
+    color: #ffffff;
+    transform: translateY(-1px);
+}
+
+.nav-button:active {
+    transform: translateY(1px);
+}
+
+.nav-icon {
+    width: 20px;
+    height: 20px;
+}

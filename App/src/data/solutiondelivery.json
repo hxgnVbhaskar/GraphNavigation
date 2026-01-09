@@ -1,0 +1,37 @@
+{
+    "title": "Solution Delivery",
+    "description": "Professional services team dedicated to implementing HxGN SDx2 solutions, ensuring successful deployment and adoption.",
+    "type": "Professional Services",
+    "status": "Active",
+    "owner": "Solution Delivery Team",
+    "lastUpdated": "2026-01-08",
+    "keyFeatures": [
+        "Implementation planning",
+        "Data migration support",
+        "Custom configuration",
+        "Go-live assistance",
+        "Post-deployment support"
+    ],
+    "serviceOfferings": [
+        "Standard Implementation",
+        "Enterprise Deployment",
+        "Migration Services",
+        "Training & Enablement"
+    ],
+    "resources": [
+        {
+            "name": "Service Catalog",
+            "url": "#"
+        },
+        {
+            "name": "Engagement Request",
+            "url": "#"
+        }
+    ],
+    "contacts": [
+        {
+            "role": "Delivery Manager",
+            "email": "delivery@hexagon.com"
+        }
+    ]
+}
